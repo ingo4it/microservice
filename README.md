@@ -17,6 +17,7 @@ Example 1:
 
 
 Example 2:
+
     Request:
       [["ATL", "EWR"], ["SFO", "ATL"]]
     Response:
@@ -26,6 +27,7 @@ Example 2:
       }
 
 Example 3:
+
     Request:
       [["IND", "EWR"], ["SFO", "ATL"], ["GSO", "IND"], ["ATL", "GSO"]]
     Response
